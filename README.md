@@ -12,7 +12,7 @@ This project contains a time series modeling and optimization notebook designed 
 - Ready for adaptation to real-world supply chain or business planning problems
 
 ## 🗂 File Structure
-- `BayerSubmission__documented.ipynb`: Main notebook with embedded code, outputs, and documentation
+- `main.ipynb`: Main notebook with embedded code, outputs, and documentation
 - `requirements.txt`: Python dependency list
 
 ## 🚀 Getting Started
@@ -24,7 +24,7 @@ This project contains a time series modeling and optimization notebook designed 
    ```
 3. Launch the notebook:
    ```bash
-   jupyter notebook BayerSubmission__documented.ipynb
+   jupyter notebook main.ipynb
    ```
 
 ## 🔒 Note
